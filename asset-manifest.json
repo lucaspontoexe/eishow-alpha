@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/eishow-alpha/static/css/main.16256562.chunk.css",
-    "main.js": "/eishow-alpha/static/js/main.e14ae805.chunk.js",
-    "main.js.map": "/eishow-alpha/static/js/main.e14ae805.chunk.js.map",
-    "runtime-main.js": "/eishow-alpha/static/js/runtime-main.d9ddae80.js",
-    "runtime-main.js.map": "/eishow-alpha/static/js/runtime-main.d9ddae80.js.map",
-    "static/js/2.8f4726ab.chunk.js": "/eishow-alpha/static/js/2.8f4726ab.chunk.js",
-    "static/js/2.8f4726ab.chunk.js.map": "/eishow-alpha/static/js/2.8f4726ab.chunk.js.map",
-    "index.html": "/eishow-alpha/index.html",
-    "precache-manifest.a1724e771a4cb78382fa64143cc80f8c.js": "/eishow-alpha/precache-manifest.a1724e771a4cb78382fa64143cc80f8c.js",
-    "service-worker.js": "/eishow-alpha/service-worker.js",
-    "static/css/main.16256562.chunk.css.map": "/eishow-alpha/static/css/main.16256562.chunk.css.map",
-    "static/media/back.svg": "/eishow-alpha/static/media/back.eeccebcc.svg",
-    "static/media/eishow-lite.webm": "/eishow-alpha/static/media/eishow-lite.45520ac9.webm",
-    "static/media/logo.svg": "/eishow-alpha/static/media/logo.8e3bf7af.svg"
+    "main.css": "./static/css/main.16256562.chunk.css",
+    "main.js": "./static/js/main.bcad1dc0.chunk.js",
+    "main.js.map": "./static/js/main.bcad1dc0.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.eda09d9b.js",
+    "runtime-main.js.map": "./static/js/runtime-main.eda09d9b.js.map",
+    "static/js/2.8f4726ab.chunk.js": "./static/js/2.8f4726ab.chunk.js",
+    "static/js/2.8f4726ab.chunk.js.map": "./static/js/2.8f4726ab.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.72c86bd031433aedf831ec43286da22f.js": "./precache-manifest.72c86bd031433aedf831ec43286da22f.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.16256562.chunk.css.map": "./static/css/main.16256562.chunk.css.map",
+    "static/media/back.svg": "./static/media/back.eeccebcc.svg",
+    "static/media/eishow-lite.webm": "./static/media/eishow-lite.45520ac9.webm",
+    "static/media/logo.svg": "./static/media/logo.8e3bf7af.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d9ddae80.js",
+    "static/js/runtime-main.eda09d9b.js",
     "static/js/2.8f4726ab.chunk.js",
     "static/css/main.16256562.chunk.css",
-    "static/js/main.e14ae805.chunk.js"
+    "static/js/main.bcad1dc0.chunk.js"
   ]
 }
