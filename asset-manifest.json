@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/eishow-alpha/static/css/main.16256562.chunk.css",
-    "main.js": "/eishow-alpha/static/js/main.d26ce5d3.chunk.js",
-    "main.js.map": "/eishow-alpha/static/js/main.d26ce5d3.chunk.js.map",
+    "main.js": "/eishow-alpha/static/js/main.52906183.chunk.js",
+    "main.js.map": "/eishow-alpha/static/js/main.52906183.chunk.js.map",
     "runtime-main.js": "/eishow-alpha/static/js/runtime-main.d9ddae80.js",
     "runtime-main.js.map": "/eishow-alpha/static/js/runtime-main.d9ddae80.js.map",
-    "static/js/2.0cd33da9.chunk.js": "/eishow-alpha/static/js/2.0cd33da9.chunk.js",
-    "static/js/2.0cd33da9.chunk.js.map": "/eishow-alpha/static/js/2.0cd33da9.chunk.js.map",
+    "static/js/2.8f4726ab.chunk.js": "/eishow-alpha/static/js/2.8f4726ab.chunk.js",
+    "static/js/2.8f4726ab.chunk.js.map": "/eishow-alpha/static/js/2.8f4726ab.chunk.js.map",
     "index.html": "/eishow-alpha/index.html",
-    "precache-manifest.20ae2957dced612f72f8f364c31c4120.js": "/eishow-alpha/precache-manifest.20ae2957dced612f72f8f364c31c4120.js",
+    "precache-manifest.3ee43cdf489671aa4acd4a6cfb64c078.js": "/eishow-alpha/precache-manifest.3ee43cdf489671aa4acd4a6cfb64c078.js",
     "service-worker.js": "/eishow-alpha/service-worker.js",
     "static/css/main.16256562.chunk.css.map": "/eishow-alpha/static/css/main.16256562.chunk.css.map",
     "static/media/back.svg": "/eishow-alpha/static/media/back.eeccebcc.svg",
@@ -17,8 +17,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d9ddae80.js",
-    "static/js/2.0cd33da9.chunk.js",
+    "static/js/2.8f4726ab.chunk.js",
     "static/css/main.16256562.chunk.css",
-    "static/js/main.d26ce5d3.chunk.js"
+    "static/js/main.52906183.chunk.js"
   ]
 }
