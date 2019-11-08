@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "65a2c0c1b02e463359c5f5ccbeb316d4",
+    "revision": "0d5f06922357675e6e89292db593eaf2",
     "url": "/eishow-alpha/index.html"
   },
   {
-    "revision": "80aeac70b24a5035a8a1",
+    "revision": "c1405ec74c989aab41d2",
     "url": "/eishow-alpha/static/css/main.af4db8cd.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/eishow-alpha/static/js/2.497f1de6.chunk.js"
   },
   {
-    "revision": "80aeac70b24a5035a8a1",
-    "url": "/eishow-alpha/static/js/main.54271d3a.chunk.js"
+    "revision": "c1405ec74c989aab41d2",
+    "url": "/eishow-alpha/static/js/main.e76595e0.chunk.js"
   },
   {
     "revision": "cc29af1f86e2addf8beb",
@@ -29,7 +29,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "0521007efda2f7472ae6b4d991d953c5",
-    "url": "/eishow-alpha/static/media/eishow-lite.0521007e.webm"
+    "url": "/eishow-alpha/static/media/eishow-lite-v02.0521007e.webm"
   },
   {
     "revision": "8e15adf2d732fe1f2fef320e95700cec",
