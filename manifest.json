@@ -1,6 +1,6 @@
 {
-  "short_name": "eishow",
-  "name": "eishow",
+  "short_name": "EiShow",
+  "name": "EiShow",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +20,7 @@
   ],
   "start_url": ".",
   "display": "fullscreen",
+  "orientation": "portrait",
   "theme_color": "#1fbcff",
   "background_color": "#1FBCFF"
 }
