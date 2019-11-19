@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "632d21ea9988e82a2629ecb7a5707120",
+    "revision": "ae1690b144a21029f1a5a5d07d5a11ec",
     "url": "/eishow-alpha/index.html"
   },
   {
-    "revision": "4d7eea6e18d841aa1d15",
-    "url": "/eishow-alpha/static/css/main.f878646f.chunk.css"
+    "revision": "e9c8c93082b444cf7248",
+    "url": "/eishow-alpha/static/css/main.0272c03b.chunk.css"
   },
   {
-    "revision": "b7a87007424c81ccb40e",
-    "url": "/eishow-alpha/static/js/2.497f1de6.chunk.js"
+    "revision": "dc100489bd7fab7fb4a3",
+    "url": "/eishow-alpha/static/js/2.4b2d3efa.chunk.js"
   },
   {
-    "revision": "4d7eea6e18d841aa1d15",
-    "url": "/eishow-alpha/static/js/main.e76595e0.chunk.js"
+    "revision": "e9c8c93082b444cf7248",
+    "url": "/eishow-alpha/static/js/main.26029a60.chunk.js"
   },
   {
     "revision": "cc29af1f86e2addf8beb",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0521007efda2f7472ae6b4d991d953c5",
     "url": "/eishow-alpha/static/media/eishow-lite-v02.0521007e.webm"
+  },
+  {
+    "revision": "68be149a3f98d6960dd8dacddd2dd0b6",
+    "url": "/eishow-alpha/static/media/eishow-lite-v02.68be149a.vtt"
   },
   {
     "revision": "8e15adf2d732fe1f2fef320e95700cec",
